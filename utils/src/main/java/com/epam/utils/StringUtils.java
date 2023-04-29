@@ -8,5 +8,4 @@ public class StringUtils {
         }
         return Double.parseDouble(str) > 0;
     }
-    }
 }
